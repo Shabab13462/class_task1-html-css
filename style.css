@@ -1,0 +1,42 @@
+body {
+    text-justify: ;
+}
+
+ul {
+    list-style-type: none;
+    /* Removes bullets */
+    margin: 0;
+    /* Resets margin */
+    padding: 0;
+    /* Resets padding */
+}
+
+body {
+    background-color: rgb(99, 89, 89);
+}
+
+li {
+    display: inline;
+}
+
+
+li {
+    float: left;
+}
+
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #ada9a9;
+}
+
+navbar-nav>li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+ul {
+    text-size-adjust: 50;
+}
